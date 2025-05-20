@@ -1,0 +1,22 @@
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\Negocio\bin\Debug\Negocio.dll
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\Negocio\bin\Debug\Negocio.pdb
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\Negocio\bin\Debug\Datos.dll
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\Negocio\bin\Debug\Persistencia.dll
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\Negocio\bin\Debug\Datos.pdb
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\Negocio\bin\Debug\Persistencia.pdb
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\Negocio\obj\Debug\Negocio.dll
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\Negocio\obj\Debug\Negocio.pdb
+C:\Users\jbbad\source\repos\TP_Integrador_v1\Negocio\bin\Debug\Negocio.dll
+C:\Users\jbbad\source\repos\TP_Integrador_v1\Negocio\bin\Debug\Negocio.pdb
+C:\Users\jbbad\source\repos\TP_Integrador_v1\Negocio\bin\Debug\Datos.dll
+C:\Users\jbbad\source\repos\TP_Integrador_v1\Negocio\bin\Debug\Persistencia.dll
+C:\Users\jbbad\source\repos\TP_Integrador_v1\Negocio\bin\Debug\Datos.pdb
+C:\Users\jbbad\source\repos\TP_Integrador_v1\Negocio\bin\Debug\Persistencia.pdb
+C:\Users\jbbad\source\repos\TP_Integrador_v1\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\jbbad\source\repos\TP_Integrador_v1\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\jbbad\source\repos\TP_Integrador_v1\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\jbbad\source\repos\TP_Integrador_v1\Negocio\obj\Debug\Negocio.dll
+C:\Users\jbbad\source\repos\TP_Integrador_v1\Negocio\obj\Debug\Negocio.pdb

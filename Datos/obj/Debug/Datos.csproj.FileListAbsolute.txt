@@ -1,0 +1,12 @@
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\Datos\bin\Debug\Datos.dll
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\Datos\bin\Debug\Datos.pdb
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\Datos\obj\Debug\Datos.dll
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\Datos\obj\Debug\Datos.pdb
+C:\Users\jbbad\source\repos\TP_Integrador_v1\Datos\bin\Debug\Datos.dll
+C:\Users\jbbad\source\repos\TP_Integrador_v1\Datos\bin\Debug\Datos.pdb
+C:\Users\jbbad\source\repos\TP_Integrador_v1\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\jbbad\source\repos\TP_Integrador_v1\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\jbbad\source\repos\TP_Integrador_v1\Datos\obj\Debug\Datos.dll
+C:\Users\jbbad\source\repos\TP_Integrador_v1\Datos\obj\Debug\Datos.pdb

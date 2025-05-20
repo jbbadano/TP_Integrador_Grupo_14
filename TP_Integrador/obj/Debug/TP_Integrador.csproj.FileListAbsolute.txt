@@ -1,0 +1,49 @@
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\TP_Integrador\bin\Debug\TP_Integrador.exe.config
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\TP_Integrador\bin\Debug\TP_Integrador.exe
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\TP_Integrador\bin\Debug\TP_Integrador.pdb
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\TP_Integrador\obj\Debug\TP_Integrador.csproj.AssemblyReference.cache
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\TP_Integrador\obj\Debug\TP_Integrador.Properties.Resources.resources
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\TP_Integrador\obj\Debug\TP_Integrador.csproj.GenerateResource.cache
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\TP_Integrador\obj\Debug\TP_Integrador.csproj.CoreCompileInputs.cache
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\TP_Integrador\obj\Debug\TP_Integrador.exe
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\TP_Integrador\obj\Debug\TP_Integrador.pdb
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\TP_Integrador\bin\Debug\Datos.dll
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\TP_Integrador\bin\Debug\Negocio.dll
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\TP_Integrador\bin\Debug\Persistencia.dll
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\TP_Integrador\bin\Debug\Datos.pdb
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\TP_Integrador\bin\Debug\Negocio.pdb
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\TP_Integrador\bin\Debug\Persistencia.pdb
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\TP_Integrador\obj\Debug\TP_Integrador.FormLogin.resources
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\TP_Integrador\obj\Debug\TP_Integ.AC5E0146.Up2Date
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\TP_Integrador\obj\Debug\TP_Integrador.FormCambioClave.resources
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\TP_Integrador\obj\Debug\TP_Integrador.FormMenu.resources
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\bin\Debug\TP_Integrador.exe.config
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\bin\Debug\TP_Integrador.exe
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\bin\Debug\TP_Integrador.pdb
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\bin\Debug\Datos.dll
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\bin\Debug\Negocio.dll
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\bin\Debug\Persistencia.dll
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\bin\Debug\Datos.pdb
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\bin\Debug\Negocio.pdb
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\bin\Debug\Persistencia.pdb
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\obj\Debug\TP_Integrador.csproj.AssemblyReference.cache
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\obj\Debug\TP_Integrador.FormCambioClave.resources
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\obj\Debug\TP_Integrador.FormLogin.resources
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\obj\Debug\TP_Integrador.FormMenu.resources
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\obj\Debug\TP_Integrador.Properties.Resources.resources
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\obj\Debug\TP_Integrador.csproj.GenerateResource.cache
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\obj\Debug\TP_Integrador.csproj.CoreCompileInputs.cache
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\obj\Debug\TP_Integ.AC5E0146.Up2Date
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\obj\Debug\TP_Integrador.exe
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\obj\Debug\TP_Integrador.pdb
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\bin\Debug\DataBase\Tablas\autorizacion.csv
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\bin\Debug\DataBase\Tablas\credenciales.csv
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\bin\Debug\DataBase\Tablas\login_intentos.csv
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\bin\Debug\DataBase\Tablas\operacion_cambio_credencial.csv
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\bin\Debug\DataBase\Tablas\operacion_cambio_persona.csv
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\bin\Debug\DataBase\Tablas\perfil.csv
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\bin\Debug\DataBase\Tablas\perfil_rol.csv
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\bin\Debug\DataBase\Tablas\persona.csv
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\bin\Debug\DataBase\Tablas\rol.csv
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\bin\Debug\DataBase\Tablas\usuario_bloqueado.csv
+C:\Users\jbbad\source\repos\TP_Integrador_v1\TP_Integrador\bin\Debug\DataBase\Tablas\usuario_perfil.csv

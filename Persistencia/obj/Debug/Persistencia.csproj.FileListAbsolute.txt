@@ -1,0 +1,27 @@
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\Persistencia\bin\Debug\Persistencia.dll
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\Persistencia\bin\Debug\Persistencia.pdb
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\Persistencia\bin\Debug\Datos.dll
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\Persistencia\bin\Debug\Datos.pdb
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\Persistencia\obj\Debug\Persiste.7F7D6998.Up2Date
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\Persistencia\obj\Debug\Persistencia.dll
+C:\DOC\FCE\2025-Q1 - 1654 - CAI\TP\v2\TP_Integrador\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\jbbad\source\repos\TP_Integrador_v1\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\jbbad\source\repos\TP_Integrador_v1\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\jbbad\source\repos\TP_Integrador_v1\Persistencia\bin\Debug\Datos.dll
+C:\Users\jbbad\source\repos\TP_Integrador_v1\Persistencia\bin\Debug\Datos.pdb
+C:\Users\jbbad\source\repos\TP_Integrador_v1\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\jbbad\source\repos\TP_Integrador_v1\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\jbbad\source\repos\TP_Integrador_v1\Persistencia\obj\Debug\Persiste.7F7D6998.Up2Date
+C:\Users\jbbad\source\repos\TP_Integrador_v1\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\jbbad\source\repos\TP_Integrador_v1\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Zalman\Source\Repos\TP_Integrador_2025\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Zalman\Source\Repos\TP_Integrador_2025\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Zalman\Source\Repos\TP_Integrador_2025\Persistencia\bin\Debug\Datos.dll
+C:\Users\Zalman\Source\Repos\TP_Integrador_2025\Persistencia\bin\Debug\Datos.pdb
+C:\Users\Zalman\Source\Repos\TP_Integrador_2025\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\Zalman\Source\Repos\TP_Integrador_2025\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Zalman\Source\Repos\TP_Integrador_2025\Persistencia\obj\Debug\Persiste.7F7D6998.Up2Date
+C:\Users\Zalman\Source\Repos\TP_Integrador_2025\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Zalman\Source\Repos\TP_Integrador_2025\Persistencia\obj\Debug\Persistencia.pdb
